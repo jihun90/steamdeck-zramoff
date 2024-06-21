@@ -1,11 +1,10 @@
 # steamdeck-zramoff
-SteamDeck Zram 끄고 싶을때가 있어. (steamdeck os 3.7에서 제작. 3.6 동일할듯)
-zram은 cpu 자원으로 동작하고 있음. Ram의 여유을 때만 사용!
-case 1. cpu의 최대성능을 애매하게 쓰고 있어 zram이 cpu 자원을 안쓰게 하고 싶을때
-case 2. cpu 거의 안쓰고 있는데, 특정 상황에서 갑자기 급격하게 cpu 자원을 땡겨쓸때 zram을 사용하고 싶지 않을때
+- SteamDeck Zram 끄고 싶을때가 있어. (steamdeck os 3.7에서 제작. 3.6 동일할듯)
+- zram은 cpu 자원으로 동작하고 있음. Ram의 여유을 때만 사용!
+  - case 1. cpu의 최대성능을 애매하게 쓰고 있어 zram이 cpu 자원을 안쓰게 하고 싶을때
+  - case 2. cpu 거의 안쓰고 있는데, 특정 상황에서 갑자기 급격하게 cpu 자원을 땡겨쓸때 zram을 사용하고 싶지 않을때
 
 - 선행조건 sudo 쓸줄 알아야함.
-
 1. zr.sh을 /home/deck/Desktop/에 다운 받자
 
 2. 비스팀게임 추가를 zr.sh을 하자(사실 아무거나 상관없음)
