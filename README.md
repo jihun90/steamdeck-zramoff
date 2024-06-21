@@ -14,7 +14,7 @@ case 2. cpu 거의 안쓰고 있는데, 특정 상황에서 갑자기 급격하�
 ![alt text](<Screenshot 2024-06-21 at 2.09.49 PM.png>)
 
 4. 컨트롤러도 똑같이 하면 좋다 
-![alt text](<Screenshot 2024-06-21 at 2.09.49 PM-1.png>)
+![alt text](<Screenshot 2024-06-21 at 2.11.21 PM.png>)
 
 5. 그 비스팀 게임을 실행한고 sudo 비번하고 결과에 dev/zram0이 없어졌는지 확인해라. 그리고 아무 키보드키 누르면 종료된다. (끝)
 ![alt text](<Screenshot 2024-06-21 at 2.12.10 PM.png>)
